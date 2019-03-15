@@ -1,0 +1,131 @@
+#title{
+  /* background-color: #4ec99c; */
+  background-color: #FF4c68;
+  /* font-family: 'Ubuntu', sans-serif; */
+  color:#fff;
+
+}
+.container-fluid{
+  padding:3% 15%;
+}
+h1{
+  font-family: "Montserrat-Extra-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+
+}
+body{
+  font-family: "Montserrat";
+}
+/* Navigation bar */
+.navbar{
+  /* top left and right buttom */
+  padding:0 0 4.5rem;
+}
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size:2.5rem;
+  font-weight: bold;
+}
+/* directions topdown left right */
+.nav-item{
+  padding: 0 15px;
+}
+.nav-link{
+font-size:1.2rem;
+font-family:"Montserrat-light";
+}
+/* downloads button */
+.download-button
+{
+  /* top right left bottom */
+  margin:5% 3% 5% 0;
+}
+.button1{
+  background:#3C5A99;
+  color:white;
+}
+.title-image{
+  width:60%;
+  transform:rotate(30deg);
+  border-top-left-radius: 7.5%;
+  border-top-right-radius: 7.5%;
+  border-bottom-left-radius: 9.1%;
+  border-bottom-right-radius: 9.5%;
+  border-right-width: thin;
+}
+#features{
+	padding:7% 15%;
+}
+.feature-box{
+	text-align:center;
+  padding:5%;
+}
+h3{
+  font-family: "Montserrat-bold";
+}
+h2{
+  font-family: Montserrat-bold;
+  line-height: 1.5;
+  font-size: 3rem;
+
+}
+p{
+  color:#8f8f8f;
+}
+.icon{
+  color:#ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color:#FF4c68;
+}
+/* testimonial seccton */
+#testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  color:#fff;
+
+}
+.testimonial-image{
+  width:10%;
+  border-radius: 100%;
+  margin:20px;
+}
+ #press{
+  background-color: white;
+  text-align: center;
+  /* padding-bottom: 3% */
+  padding-left: 18%;
+
+}
+.press-logo{
+  width:15%;
+  margin:20px 20px 20px;
+}
+.carousel-item{
+  padding:7% 15%;
+}
+.capabilities{
+  text-align: center;
+}
+
+.bottom-container{
+  background-color: #4e4f56;
+  padding: 50PX 0 20PX;
+  text-align: center;
+  margin-top: 10%;
+
+}
+/* .work{
+  color:black;
+  tect-align:center;
+  margin-bottom: 5%;
+} */
+.intro{
+  color:black;
+}
+.card{
+  margin-top: 9%;
+  margin-left: 2%;
+}
