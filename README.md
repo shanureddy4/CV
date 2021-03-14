@@ -1,2 +1,2 @@
 # CV
-A simple outcome from bootstrap
+A dummy portfolio to practice web technologies.
